@@ -1,4 +1,4 @@
-![Screenshot from 2023-11-01 15-46-17](https://github.com/reomelo/42Porto-push_swap/assets/73884501/939fe70e-405f-4874-b19e-46c5c4669add)
+![Screenshot from 2023-11-01 15-46-17](https://github.com/reomelo/42Porto-push_swap/assets/73884501/98741519-0106-4250-b039-4a4105e48031)
 
 ### Description of the project:
 Push_swap is a program that sorts a stack of integers with the minimum instructions possible and an auxiliary stack. Instructions are defined within the subject of the project; They're the only way allowed to manipulate the data in the stacks.
